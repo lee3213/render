@@ -1,0 +1,17 @@
+{
+	"QT_avgSThreshold" : 10,
+	"end" : "end",
+	"g_BrushMinSize" : 5,
+	"g_QT_method_N" : 1,
+	"g_Render_method" : "Twopass",
+	"g_Ts" : 230,
+	"g_depth_Threshhold" : 7,
+	"g_gridsize" : 5,
+	"g_merge_method" : "Attach",
+	"g_merge_skip_count" : 1,
+	"g_paint_grid_scale" : 6,
+	"g_paint_method" : "copy",
+	"g_saliency_method" : "Itti",
+	"root_path" : "/rst",
+	"root_path_win" : "\\rst"
+}
