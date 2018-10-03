@@ -1,0 +1,5 @@
+C:\dev_painterly_render_u_saliency\x64\Debug\SaliencyPainterlyRendering.exe %1 \render\deployment\deploy_s10_d7_g5_b5_N1_ps6_rTwopass_sItti_mAttach_gs1_copy.json
+C:\dev_painterly_render_u_saliency\x64\Debug\SaliencyPainterlyRendering.exe %1 \render\deployment\deploy_s10_d7_g5_b5_N1_ps6_rTwopass_sPregraph_mAttach_gs1_copy.json
+C:\dev_painterly_render_u_saliency\x64\Debug\SaliencyPainterlyRendering.exe %1 \render\deployment\deploy_s10_d7_g5_b5_N1_ps6_rTwopass_sResidual_mAttach_gs1_copy.json
+C:\dev_painterly_render_u_saliency\x64\Debug\SaliencyPainterlyRendering.exe %1 \render\deployment\deploy_s10_d7_g5_b5_N1_ps6_rTwopass_sBlackandwhite_mAttach_gs1_copy.json
+C:\dev_painterly_render_u_saliency\x64\Debug\SaliencyPainterlyRendering.exe %1 \render\deployment\deploy_s10_d7_g5_b5_N1_ps6_rTwopass_sFine_grained_mAttach_gs1_copy.json
