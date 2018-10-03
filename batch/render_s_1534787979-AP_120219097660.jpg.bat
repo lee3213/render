@@ -1,0 +1,1 @@
+call \render\batch\render\render_s.bat 1534787979-AP_120219097660.jpg

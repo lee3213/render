@@ -1,1 +1,0 @@
-call render_s10d7g10.bat \render\src\cathedral_montreal_4.jpg

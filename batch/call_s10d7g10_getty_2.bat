@@ -1,1 +1,0 @@
-call render_s10d7g10.bat \render\src\GettyImages-463767822.jpg

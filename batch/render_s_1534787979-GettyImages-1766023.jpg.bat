@@ -1,0 +1,1 @@
+call \render\batch\render\render_s.bat 1534787979-GettyImages-1766023.jpg
